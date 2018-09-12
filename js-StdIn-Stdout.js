@@ -1,4 +1,4 @@
-Stdin StdOut - JavaScript(Node.js)
+// Stdin StdOut - JavaScript(Node.js)
 
 use strict';
 
